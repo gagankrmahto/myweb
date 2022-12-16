@@ -1,4 +1,4 @@
 Hello world
 <?php
-print `ip addr`;
+print `ip addrress`;
 ?>
