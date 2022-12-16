@@ -1,4 +1,4 @@
 Hello world
 <?php
-print `ls`;
+print `ip -c -b -r addr`;
 ?>
